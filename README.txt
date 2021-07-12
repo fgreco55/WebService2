@@ -9,4 +9,6 @@ Also notice the Utility.java class.  This class uses an external library from js
 from Strings so we can use Java methods to inspect it.  I made the methods static so you don't have to create any
 object instance to use them.  If you look at RetrieverApp, you'll see one of the Utility methods in action.
 
+You may have to add a line to build.gradle to retrieve the JSON.org package.
+
 Frank
